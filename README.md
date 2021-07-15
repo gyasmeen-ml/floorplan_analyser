@@ -34,7 +34,7 @@ Annotated dataset can be downloaded from [here](https://drive.google.com/drive/f
 Three primary models have been trained to showcase the performance of the Mask R-CNN architecture under specific configurations.
 
 ### Annotated image for image 116 from the School Dataset:
-![image](input/0_gt.jpg)
+![image](input/school_floorplan_detection/0_gt.jpg)
 
 ### Floor plan detection results for image 116 from the School Dataset
 #### Model 1
