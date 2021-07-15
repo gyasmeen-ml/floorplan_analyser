@@ -1,0 +1,15 @@
+opencv_python==4.5.1.48
+tensorflow==1.15.0
+scipy==1.5.4
+matplotlib==3.3.3
+numpy==1.19.5
+Pillow==8.1.2
+cython==0.29.22
+scikit-image==0.16.2
+keras==2.0.8
+opencv_python==4.5.1.48
+h5py==2.10.0
+scikit-build==0.11.1
+imgaug==0.4.0
+pandas==1.1.5
+jupyter==1.0.0
